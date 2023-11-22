@@ -9,3 +9,8 @@ This is a RISC-V pipelined processor simulator implemented in Java. It can load 
 * Implements hazard detection and handling
 * Prints simulation trace showing status of all pipeline components per clock cycle
 * Handles branches and jumps properly
+  
+### Pipelined Architecture
+
+![image](https://github.com/Abhinav-Telukunta/RISC-V-Pipeline-Simulator/assets/62216101/b826d034-65a6-4843-b122-83f2f23071e6)
+
